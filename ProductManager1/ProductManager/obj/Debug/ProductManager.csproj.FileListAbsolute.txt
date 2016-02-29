@@ -42,3 +42,47 @@ C:\Users\Anahit Martirosyan\Source\Repos\MVCTeam\ProductManager\ProductManager\b
 C:\Users\Anahit Martirosyan\Source\Repos\MVCTeam\ProductManager\ProductManager\obj\Debug\ProductManager.csprojResolveAssemblyReference.cache
 C:\Users\Anahit Martirosyan\Source\Repos\MVCTeam\ProductManager\ProductManager\obj\Debug\ProductManager.dll
 C:\Users\Anahit Martirosyan\Source\Repos\MVCTeam\ProductManager\ProductManager\obj\Debug\ProductManager.pdb
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\csc.exe
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\vbc.exe
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\ProductManager.dll.config
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\ProductManager.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\ProductManager.pdb
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\Antlr3.Runtime.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\EntityFramework.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\Newtonsoft.Json.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.Helpers.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.Mvc.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.Optimization.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.Razor.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.WebPages.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\WebGrease.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\EntityFramework.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.Helpers.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.Mvc.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.Optimization.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.Razor.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.WebPages.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\Antlr3.Runtime.pdb
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\bin\Newtonsoft.Json.xml
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\obj\Debug\ProductManager.csprojResolveAssemblyReference.cache
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\obj\Debug\ProductManager.dll
+C:\Users\Labuser16\Source\Repos\MVCTeamNew\ProductManager1\ProductManager\obj\Debug\ProductManager.pdb

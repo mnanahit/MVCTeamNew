@@ -16,7 +16,7 @@ namespace ProductManager
     public partial class ProductManagerDbContext : DbContext
     {
         public ProductManagerDbContext()
-            : base("name=DbContext")
+            : base("name=ProductManagerDBContext")
         {
         }
     
